@@ -3,11 +3,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Rafael Valadares Pinho 
+- Matrícula: 18.1.8009
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 2023
+- Link para o seu GitHub: https://github.com/rvpinho
 
 ## [Projeto final:](./Projeto/README.md)
 
