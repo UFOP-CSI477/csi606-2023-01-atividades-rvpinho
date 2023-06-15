@@ -12,3 +12,4 @@
 ## [Projeto final:](./Projeto/README.md)
 
 Apresente uma breve descrição do seu projeto.
+ O objetivo do trabalho é criar uma plataforma online de gestão de presença por meio de uma validação realizada presencialemente de forma física.
